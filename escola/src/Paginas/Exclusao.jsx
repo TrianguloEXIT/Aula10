@@ -1,8 +1,9 @@
-export default function Exclusao(){
-    return(
+export default function Exclusao()
+{
+
+    return (
         <div>
-        <h1>Exclusão de Alunos</h1>
+            <h1>Exclusao</h1>
         </div>
     );
-
 }
